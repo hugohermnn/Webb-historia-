@@ -1,5 +1,4 @@
 function myFunktion(){
-    var element = document.body;
-    console.log("Hej 123");     
+    var element = document.body;  
     element.classList.toggle("dark-mode");
 }
